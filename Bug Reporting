@@ -7,3 +7,5 @@ Expected:
 Error message and not allow the calculation
 Actual:
 The system does not report an error in the calculation of "slabs with edge beams" when the value in "b – width, m" is greater than "B – width, m". The system also performs the calculation incorrectly.
+Severity:
+Medium
